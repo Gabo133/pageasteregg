@@ -23,7 +23,7 @@
 
 .trainer {
     position: absolute;
-    bottom: 20%;
+    bottom: 10%;
     right: 5%;
     height: 40%;
     z-index: 1;
@@ -31,7 +31,7 @@
 
 .textbox {
     position: absolute;
-    bottom: 0;
+    bottom: 5%;
     left: 0;
     width: 100%;
     background: #ffffff;
@@ -42,9 +42,9 @@
     z-index: 2;
 }
 
-    .textbox p {
-        color: #000;
-        font-size: 12px;
-        line-height: 1.5;
-        margin: 0;
-    }
+.textbox p {
+    color: #000;
+    font-size: 34px;
+    line-height: 1.5;
+    margin: 0;
+}
